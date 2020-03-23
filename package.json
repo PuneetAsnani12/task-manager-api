@@ -23,6 +23,6 @@
   },
   "devDependencies": {
     "env-cmd": "^10.0.1",
-    "nodemon": "^1.18.9"
+    "nodemon": "^2.0.2"
   }
 }
